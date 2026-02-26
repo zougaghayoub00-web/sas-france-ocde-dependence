@@ -101,7 +101,7 @@ Estimation via `PROC REG` (résidus + valeurs prédites sauvegardés), puis visu
 
 ---
 
-## ▶ Reproductibilité
+## Reproductibilité
 Ce dépôt est pensé comme **portfolio / démonstration** :
 - Le code est fourni intégralement
 - Les résultats sont fournis dans `results.pdf`
