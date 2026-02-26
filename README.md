@@ -1,4 +1,4 @@
-# 🇫🇷 Analyse de la dépendance sectorielle de la France vis-à-vis de ses partenaires OCDE (2017–2023) — SAS
+# Analyse de la dépendance sectorielle de la France vis-à-vis de ses partenaires OCDE (2017–2023) — SAS
 
 ##  Contexte & Problématique
 Ce projet étudie la **dépendance sectorielle de la France** vis-à-vis d’un ensemble de partenaires de l’**OCDE** entre **2017 et 2023**, en lien avec des **chocs internationaux** (COVID-19, tensions sur les chaînes d’approvisionnement, inflation, événements géopolitiques, etc.).
