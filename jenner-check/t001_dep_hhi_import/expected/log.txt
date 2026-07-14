@@ -1,0 +1,34 @@
+NOTE: Jenner v1.5.30 (build v1.5.30+unknown.20260714T020019Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA fr_import
+
+NOTE: Processing inline DATALINES (18 lines)
+
+NOTE: Read 18 rows from DATALINES.
+NOTE: Wrote fr_import (18 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SQL 
+
+NOTE: Table dep_fr_imp created.
+NOTE: PROC SQL statement used.
+NOTE: PROC SQL 
+
+NOTE: Table dep_fr_imp_parts created.
+NOTE: PROC SQL statement used.
+NOTE: PROC SQL 
+
+NOTE: Table top_imp created.
+NOTE: PROC SQL statement used.
+NOTE: PROC PRINT data=top_imp
+
+NOTE: PROC PRINT completed: 6 observations printed, 2 variables
+NOTE: PROC SQL 
+
+NOTE: Table hhi_import created.
+NOTE: PROC SQL statement used.
+NOTE: PROC PRINT data=hhi_import
+
+NOTE: PROC PRINT completed: 3 observations printed, 2 variables

@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-14T05:24:43.745578Z",
+  "_captured_run_id": "r_55cb455d7cda466fa573c7b7759a5f16",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: DATA baci90",
+    "NOTE: PROC CORR data=baci90"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

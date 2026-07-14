@@ -1,0 +1,12 @@
+                                     Indicatrices pays et langue commune (extrait)
+
+  Obs  pays_expo  pays_impo  langue  FRA_i  FRA_j  DEU_i  DEU_j  USA_i  USA_j
+    1  DEU        FRA             0      0      1      1      0      0      0
+    2  FRA        DEU             0      1      0      0      1      0      0
+    3  ITA        FRA             0      0      1      0      0      0      0
+    4  USA        CAN             1      0      0      0      0      1      0
+    5  BEL        NLD             1      0      0      0      0      0      0
+    6  ESP        FRA             0      0      1      0      0      0      0
+    7  GBR        USA             1      0      0      0      0      0      1
+    8  NLD        BEL             1      0      0      0      0      0      0
+

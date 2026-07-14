@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_log_transforms_corr",
+  "source_file": "france_ocde_dependency.sas",
+  "source_blob_sha": "573239fa252363a549f2cd7223c6c3c062073f51",
+  "source_commit": "6d1ed9d2d63a59a76a81c0ce44c4a7f638814466",
+  "notes": "Transformations log + PROC CORR: reprend le DATA step log_* et la matrice de correlation du modele gravitaire, sur une base baci90 d'exemple."
+}

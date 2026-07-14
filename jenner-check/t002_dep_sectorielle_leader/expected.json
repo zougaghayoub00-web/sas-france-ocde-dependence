@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-14T05:24:43.745578Z",
+  "_captured_run_id": "r_daadf49d6a3945b9bb1e6514d346c8d2",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Table leader_sec created.",
+    "NOTE: Table dep_fr_imp_sec_part created."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

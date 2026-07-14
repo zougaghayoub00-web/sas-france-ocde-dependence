@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_dep_sectorielle_leader",
+  "source_file": "france_ocde_dependency.sas",
+  "source_blob_sha": "573239fa252363a549f2cd7223c6c3c062073f51",
+  "source_commit": "6d1ed9d2d63a59a76a81c0ce44c4a7f638814466",
+  "notes": "Dependance sectorielle: reprend dep_fr_imp_sec -> dep_fr_imp_sec_part -> leader_sec (having part_sec = max(part_sec)) sur une base fr_import d'exemple (t, s, pays_expo, quantite)."
+}

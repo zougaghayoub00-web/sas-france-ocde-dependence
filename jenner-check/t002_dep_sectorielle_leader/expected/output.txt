@@ -1,0 +1,10 @@
+                                     Pays dont la France depend le plus par secteur
+
+  Obs     t   s  partenaire  q_imp_sec      part_sec
+    1  2017  33  USA              1200          0.48
+    2  2017  78  DEU               700  0.4320987654
+    3  2017  84  DEU               900  0.5806451613
+    4  2018  33  USA              1300           0.5
+    5  2018  78  ESP               720  0.4337349398
+    6  2018  84  DEU               950  0.5757575758
+
