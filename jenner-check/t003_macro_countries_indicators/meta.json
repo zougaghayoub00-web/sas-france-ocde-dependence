@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_macro_countries_indicators",
+  "source_file": "france_ocde_dependency.sas",
+  "source_blob_sha": "573239fa252363a549f2cd7223c6c3c062073f51",
+  "source_commit": "6d1ed9d2d63a59a76a81c0ce44c4a7f638814466",
+  "notes": "Macro %countries_indicators: reprend la macro qui construit &pays._i / &pays._j et l'indicatrice de langue commune, sur une base baci90 d'exemple."
+}

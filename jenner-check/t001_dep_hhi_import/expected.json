@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-14T05:24:43.745578Z",
+  "_captured_run_id": "r_05204db570d9452cb5b8f4129caf2db7",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Table hhi_import created.",
+    "NOTE: PROC PRINT completed: 3 observations printed, 2 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

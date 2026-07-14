@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_dep_hhi_import",
+  "source_file": "france_ocde_dependency.sas",
+  "source_blob_sha": "573239fa252363a549f2cd7223c6c3c062073f51",
+  "source_commit": "6d1ed9d2d63a59a76a81c0ce44c4a7f638814466",
+  "notes": "Dependance globale + HHI: reprend la chaine PROC SQL dep_fr_imp -> dep_fr_imp_parts -> top_imp -> hhi_import du projet, sur une base fr_import d'exemple (t, pays_expo, quantite)."
+}

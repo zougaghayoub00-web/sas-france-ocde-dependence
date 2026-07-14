@@ -1,0 +1,19 @@
+                         Classement des partenaires selon les quantites importees par la France
+
+  Obs  partenaire  q_totale
+    1  DEU            16200
+    2  ITA             9000
+    3  USA             8500
+    4  BEL             6900
+    5  NLD             6000
+    6  ESP             4800
+
+                         Classement des partenaires selon les quantites importees par la France
+
+                         Indice de concentration HHI des importations de la France (2017-2019)
+
+  Obs     t       hhi_imp
+    1  2017   0.197317939
+    2  2018  0.1981314879
+    3  2019  0.1982508219
+
